@@ -17,8 +17,8 @@ import { getUser } from "@/request/api/home.js";
 export default {
   data() {
     return {
-      email: "lzm_0203@163.com",
-      password: "Lzm784397919",
+      email: "@163.com", //163邮箱地址和密码
+      password: "",
     };
   },
   methods: {
